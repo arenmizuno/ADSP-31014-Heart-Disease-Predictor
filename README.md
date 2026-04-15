@@ -1,4 +1,4 @@
-# ADSP – Statistical Models for Data Science
+# ADSP 31014 – Statistical Models for Data Science
 ## Final Project: Heart Disease Prediction
 
 **University of Chicago**  
